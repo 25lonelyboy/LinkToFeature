@@ -1,0 +1,6 @@
+#C#
+*.dll
+.vs
+obj
+bin
+packages
